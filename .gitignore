@@ -1,6 +1,7 @@
 # tj additions
 .vscode/
 webgl_sharing
+/_[Bb]uilds/
 
 # https://github.com/JetBrains/resharper-rider-samples/blob/master/.gitignore
 # Common IntelliJ Platform excludes
