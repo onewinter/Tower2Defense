@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef51414ed4cacd4f87a0c1aec44b47e, type: 3}
+  m_Name: WaveSetup_16
+  m_EditorClassIdentifier: 
+  Number: 16
+  Enemies:
+  - {fileID: 6151782444392483830, guid: d708c3381522011418e06ec1bb01154e, type: 3}
+  - {fileID: 6151782444392483830, guid: d708c3381522011418e06ec1bb01154e, type: 3}
+  - {fileID: 6151782444392483830, guid: d708c3381522011418e06ec1bb01154e, type: 3}
+  - {fileID: 6151782444392483830, guid: 355687bd08710da4cb2b7c3b09586fe9, type: 3}
+  BossEnemy: {fileID: 0}
+  ReplaceEnemies: 0
+  NewBaseCount: 0
+  MinNewEnemies: 4
+  MaxNewEnemies: 8
